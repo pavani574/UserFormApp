@@ -1,0 +1,16 @@
+
+.Add {
+    background : blue;
+     color : white;
+}
+.Box {
+    text-align: center;
+    border-collapse: collapse;
+     border :  2px solid pink; 
+    width: 50% ;
+    border: right 3px;;
+}
+.Box td, .Box th {
+    border: 1px solid lightblue;
+     padding: 5px; 
+  }
